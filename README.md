@@ -66,11 +66,11 @@ The main objective of this project is to design a comprehensive sales analytics 
 
 ## 📂 Project Structure
 ├── dataset/
-│ └── car_sales_data.csv
+     └── car_sales_data.csv
 ├── dashboard/
-│ └── car_sales_dashboard.twbx
+     └── car_sales_dashboard.twbx
 ├── images/
-│ └── dashboard_preview.png
+     └── dashboard_preview.png
 └── README.md
 
 
