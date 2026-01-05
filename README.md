@@ -1,6 +1,7 @@
 # Automotive-Sales-Performance-Dashboard
 Automotive Sales Performance Dashboard analyzes car dealership sales using interactive KPIs and visualizations. It tracks YTD and YOY sales, average pricing, cars sold, regional performance, body style and color trends, enabling data-driven insights and smarter business decisions.
 # Automotive Sales Performance Dashboard
+<img width="1598" height="905" alt="car Dashboard" src="https://github.com/user-attachments/assets/b707c30e-a18e-4314-b0a6-dcd440660fc0" />
 
 ## 📊 Project Overview
 This project focuses on building an interactive and dynamic **Car Sales Dashboard** to analyze sales performance for a car dealership. The dashboard provides real-time insights into key sales metrics, helping stakeholders track performance, identify trends, and support data-driven decision-making.
